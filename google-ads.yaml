@@ -1,5 +1,0 @@
-developer_token:  # Google Ads yönetici hesabınızın API merkezi bölümündeki geliştirici jetonunu giriniz. 
-client_id:  # Google Cloud Console'dan indirdiğiniz secrets.json dosyasındaki client_id değerini giriniz.
-client_secret:  # Google Cloud Console'dan indirdiğiniz secrets.json dosyasındaki client_secret değerini giriniz.
-refresh_token:  # Terminal'den oauth doğrulamasını yaptıktan sonra üretilen token'ı giriniz.
-use_proto_plus: True
