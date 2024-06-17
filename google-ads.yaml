@@ -1,0 +1,5 @@
+developer_token:  # Enter the developer token in the API center section of your Google Ads manager account. 
+client_id:  # Enter the client_id value in the secrets.json file you downloaded from Google Cloud Console.
+client_secret:  # Enter the client_secret value in the secrets.json file you downloaded from Google Cloud Console.
+refresh_token:  # Enter the token generated after performing oauth verification from the Terminal.
+use_proto_plus: True
