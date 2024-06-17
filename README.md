@@ -33,7 +33,7 @@ In order to obtain a developer token, you will need to have a Google Ads Manager
 ![image](https://github.com/seoffensive/Keyword_Research/assets/173078980/762e2626-003e-4ff6-9186-abe586650719)
 
 7. Next, we will need to get a customer ID, as it is also needed to configure the file. The customer ID is a unique number used to identify your Google Ads account and is required for authentication.
-First, you need to create a Google Ads Test Account to use the associated customer ID for testing purposes. You can create a Google Ads test account by clicking here. (https://ads.google.com/nav/selectaccount?sf=mt&hl=en)
+First, you need to create a Google Ads Test Account to use the associated customer ID for testing purposes. You can create a Google Ads test account by clicking here. (https://developers.google.com/google-ads/api/docs/best-practices/test-accounts)
 
 8. Once you have created your test account, you can find the customer ID in the top right corner of your Google Ads admin account dashboard, as shown below:
 
