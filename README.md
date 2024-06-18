@@ -1,5 +1,6 @@
-**With the Keyword Research script, you can discover all keywords related to the main keyword in groups. This includes latent semantic indexing and long tail keywords. In this way, you can get all related keywords in bulk without doing manual keyword research for hundreds of keywords. 
-This script takes data from the Google Ads API, Google automatic word complement suggestions, and the Gemini 1.5 Flash model to ensure that any related words are not overlooked.**
+**With the Keyword Research script, you can discover all keywords related to the main keyword in groups. This includes latent semantic indexing and long tail keywords. In this way, you can get all related keywords in bulk without doing manual keyword research for hundreds of keywords.**
+
+**This script obtains individual keyword variations for each main keyword from the Google Ads API, Google autocomplete suggestions, and the Gemini 1.5 Flash model. Then, all the keywords are clustered according to SERP similarity with the help of a completely free tool. Finally, all keywords are presented grouped on a single page.**
 
 YouTube Link 👉 https://www.youtube.com/watch?v=Ka60_tq0FRM
 
